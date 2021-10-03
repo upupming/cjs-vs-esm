@@ -25,6 +25,6 @@ pluginESMAll.update()
 console.log('foo after esm update', pluginESMAll.foo)
 
 // No live binding in CJS
-console.log('foo before esm update', pluginCJSDefault.foo)
+console.log('foo before cjs update', pluginCJSDefault.foo)
 pluginCJSDefault.update()
-console.log('foo after esm update', pluginCJSDefault.foo)
+console.log('foo after cjs update', pluginCJSDefault.foo)
