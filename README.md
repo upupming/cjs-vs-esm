@@ -105,3 +105,4 @@ foo after cjs update foo
 ## Ref
 
 1. https://stackoverflow.com/a/31142842/8242705
+2. https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c
